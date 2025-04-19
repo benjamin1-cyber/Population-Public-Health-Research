@@ -108,8 +108,6 @@ Implications
 
 # Personal Contributions
 
-•	Frederick Damptey: Led model development, fine-tuning, and performance evaluation. Contributed to the manuscript and comparative analysis.
-
 •	Benjamin Odoom Asomaning: Managed dataset preprocessing, augmentation, and validation. Assisted in literature review and results interpretation.
 
 # Data Sources
