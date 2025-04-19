@@ -16,9 +16,9 @@ This project explores the potential of deep learning-based AI models to enhance 
 # Objectives
 
 1.	Develop a deep learning model to classify breast ultrasound images accurately.
-2.	
+   
 3.	Evaluate the model's performance against established benchmarks for mammography and human radiologists.
-4.	
+   
 5.	Assess the feasibility of using AI-enhanced ultrasound as a primary screening tool in low-resource settings.
 
 # Methodology
@@ -65,15 +65,15 @@ These results surpassed:
 •	Meta-analytic findings for USS AI systems (e.g., Li et al., 2024: AUC 0.732, sensitivity 0.93, specificity 0.90).
 Comparative Performance Table
 
-Model	Test Accuracy	AUC-ROC	Sensitivity	Specificity
+Model	Test Accuracy,	AUC-ROC,	Sensitivity,	Specificity
 
-ResNet50	0.92	0.964	0.881	0.945
+ResNet50,	0.92,	0.964,	0.881,	0.945
 
-EfficientNetB0	0.95	0.99	0.933	0.97
+EfficientNetB0	0.95,	0.99,	0.933,	0.97
 
-InceptionV3	0.941	0.982	0.934	0.962
+InceptionV3,	0.941,	0.982,	0.934,	0.962
 
-VGG16	0.933	0.982	0.909	0.951
+VGG16,	0.933,	0.982,	0.909,	0.951
 
 # Discussion
 
