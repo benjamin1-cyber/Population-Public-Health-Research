@@ -7,6 +7,7 @@ Exploring Deep Learning AI Ultrasound as a Primary Breast Cancer Screening Test:
 
 # Authors
 •	Frederick Damptey
+
 •	Benjamin Odoom Asomaning
 
 # Project Overview
