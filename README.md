@@ -20,6 +20,7 @@ This project explores the potential of deep learning-based AI models to enhance 
 
 # Methodology
 Dataset
+
 •	Source: The dataset, Breast Ultrasound Images Dataset (Dataset_BUSI_with_GT), was sourced from Kaggle and consists of 780 ultrasound images labeled as normal, benign, or malignant. Labels were confirmed by radiologists and histopathology.
 •	Secondary Dataset: Additional data from The Cancer Imaging Archive (TCIA) was used for validation.
 Preprocessing
@@ -34,6 +35,7 @@ Evaluation Metrics
 •	Results were compared against radiologist benchmarks and prior studies.
 
 # Results
+
 The EfficientNetB0 model achieved the highest performance:
 •	Accuracy: 95%
 •	AUC-ROC: 0.99
